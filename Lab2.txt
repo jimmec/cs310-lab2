@@ -1,0 +1,18 @@
+CPSC310 Lab2
+Jimmy Yi Pin Cao
+n7t7
+48145106
+
+3.1) The ui branch has a new file user.java in the client package, and there are some additional code in GitLab.java adding a new method displayUsers(List<IUser>)
+
+3.2) hash: 8e2e655
+
+3.3) No conflicts on this merge.
+
+4.1) async branch adds LoadUserServices.java, LoadUserServiceAsync.java and LoadUserServiceImply.java 
+
+4.2) hash: 88444c
+
+4.3) async branch needed to redo the user class so as to integrate with the RPC services, so the conflicts were all due to the different way the user class was implemented and used. Perhaps wrapping the user class in a consistent wrapper class will allow different underlying changes to be changed without affect the loading code in GitLab.java
+
+5.1)  
