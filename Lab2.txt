@@ -15,4 +15,4 @@ n7t7
 
 4.3) async branch needed to redo the user class so as to integrate with the RPC services, so the conflicts were all due to the different way the user class was implemented and used. Perhaps wrapping the user class in a consistent wrapper class will allow different underlying changes to be changed without affect the loading code in GitLab.java
 
-5.1)  
+5.1) hash: 43d8a003daf36ce19b562404c7832645fc5f18c
