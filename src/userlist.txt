@@ -1,4 +1,4 @@
-OMG ITS A CONFLICT! SHIZ BROKE2
+<<<<<<< HEAD
 Willow Walston,EN,8,1
 Rubin Roseborough,FR,0,0
 Lavern Labarre,EN,0,0
