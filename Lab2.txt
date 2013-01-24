@@ -5,7 +5,7 @@ n7t7
 
 3.1) The ui branch has a new file user.java in the client package, and there are some additional code in GitLab.java adding a new method displayUsers(List<IUser>)
 
-3.2) hash: 8e2e655
+3.2) hash: 615c1
 
 3.3) No conflicts on this merge.
 
@@ -15,4 +15,5 @@ n7t7
 
 4.3) async branch needed to redo the user class so as to integrate with the RPC services, so the conflicts were all due to the different way the user class was implemented and used. Perhaps wrapping the user class in a consistent wrapper class will allow different underlying changes to be changed without affect the loading code in GitLab.java
 
-5.1)  
+5.1)  first commit without userlist.txt: a43d8
+		last commit with the file: 0126b3
